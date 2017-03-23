@@ -2,11 +2,15 @@ This is a simple and quick implementation of a augmented reality overlay. This C
 
 Some examples:
 
+*The input image is put over the chessboard no matter the position*
+
+<img src="Pictures/processed_images_example.gif" style="width: 300px;"/>
+
 *Original input frame*
-<img src="Pictures/original_frame_example.png" style="width: 500px;"/>
+
+<img src="Pictures/original_frame_example.png" style="width: 300px;"/>
 
 *Chessboard drawing over the frame when chessboard is detected*
-<img src="Pictures/chessboard_drawing_example.png" style="width: 500px;"/>
 
-*The input image is put over the chessboard no matter the position*
-<img src="Pictures/processed_images_example.gif" style="width: 500px;"/>
+<img src="Pictures/chessboard_drawing_example.png" style="width: 300px;"/>
+
